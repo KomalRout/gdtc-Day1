@@ -1,0 +1,39 @@
+.jumbotron{
+    padding:70px 30px;
+    width: 90vh;
+    height: 60vh;
+    background-image: url("img/backgound.jpg");
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.row-header{
+    margin:0px auto;
+    padding:0px;
+}
+.container{
+    align-items: center;
+}
+.row-content{
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+.black{
+    color: floralwhite;
+    width: 90vh;
+    height: 60vh;
+}
+.white{
+    color: black;
+    width: 90vh;
+    height: 60vh;
+}
+footer{
+margin: 0px auto;
+align-self: center;
+    padding: 20px 20px;
+    background-color:floralwhite;
+}
